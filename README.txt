@@ -9,7 +9,10 @@ Es parte de un trabajo universitario para aprender conceptos básicos de program
 - Pantalla de inicio con opciones:
   - Presiona ESPACIO para comenzar el juego.
   - Presiona ESC para salir del programa.
-- Mensaje de transición antes de iniciar el juego.
+- Movimiento de la Serpiente**:
+  - La serpiente se mueve utilizando las teclas de dirección (flechas).
+  - Lógica de dirección:
+    - Evita que la serpiente cambie a la dirección opuesta inmediatamente.
 
 ---
 
