@@ -8,7 +8,7 @@ pygame.init()
 WIDTH, HEIGHT = 800, 600
 CELL_SIZE = 20
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Snake Game")
+pygame.display.set_caption("snake-game")
 
 # Colores
 WHITE = (255, 255, 255)
