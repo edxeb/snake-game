@@ -1,8 +1,11 @@
 # snake-game - Proyecto Final
 ---
 ## Descripción del Proyecto
+
 Este es un proyecto final del curso de programación que implementa el juego clásico de la serpiente utilizando Python y la librería Pygame.
+
 El objetivo principal de este proyecto es aplicar los conocimientos adquiridos en las 4 unidades del curso, integrando conceptos de lógica de programación, estructuras de control, estructuras de datos, y programación modular.
+
 ----
 ## Datos del Proyecto
 - **Nombre del Proyecto**: Snake Game
