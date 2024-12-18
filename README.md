@@ -36,6 +36,6 @@ El objetivo principal de este proyecto es aplicar los conocimientos adquiridos e
 ---
 ## Video Presentación
 Se puede ver un video de la presentación del proyecto en el siguiente enlace:
-(https://video.com)
+([https://video.com](https://youtu.be/PUOWlgp5B5c))
 
 
