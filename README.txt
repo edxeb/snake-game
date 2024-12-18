@@ -26,13 +26,13 @@ El objetivo principal de este proyecto es aplicar los conocimientos adquiridos e
 ---
 ## Requisitos del Sistema
 1. **Python 3.6 o superior**:
-   - Descárgalo desde [python.org](https://www.python.org/).
+   - Descárgalo desde (https://www.python.org/).
 2. **Librería Pygame**:
    - Instálala usando el siguiente comando:
         pip install pygame
 ---
 ## Video Presentación
 Se puede ver un video de la presentación del proyecto en el siguiente enlace:
-https://enlace-al-video.com
+(https://video.com)
 
 
